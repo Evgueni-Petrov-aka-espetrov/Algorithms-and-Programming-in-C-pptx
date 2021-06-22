@@ -4,7 +4,7 @@
 
 Ставьте звезды, создавайте issue, делайте пул-реквесты
 
-## [Лекция 1 Понятие программы] https://github.com/Evgueni-Petrov-aka-espetrov/Algorithms-and-Programming-in-C-pptx/blob/master/01%20Понятие%20программы.pptx
+## [Лекция 1 Понятие программы](https://github.com/Evgueni-Petrov-aka-espetrov/Algorithms-and-Programming-in-C-pptx/blob/master/01%20Понятие%20программы.pptx)
 * Информация о курсе
 * Понятие программы
 * Понятие компиляции, сборки, системы контроля версий
