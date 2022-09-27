@@ -24,12 +24,16 @@
 * Понятие точки следования
 * Обзор операторов -- требования к операндам, исполнение, побочные эффекты, условия возникновения implementation-specific/unspecified/undefined behavior
 
-## [Лекция 4 Типы языка Си](https://github.com/Evgueni-Petrov-aka-espetrov/Algorithms-and-Programming-in-C-pptx/blob/master/03.5%20Типы%20языка%20С.pptx)
+## [Лекция 4 Функции в языке Си](https://github.com/Evgueni-Petrov-aka-espetrov/Algorithms-and-Programming-in-C-pptx/blob/master/05%20Функции.pptx)
+* Понятие подпрограммы -- граф вызовов, стековый кадр, стек вызовов
+* Функции в языке Си -- формальные и фактические параметры, возвращаемое значение, вариадические функции
+
+## [Лекция 5 Типы языка Си](https://github.com/Evgueni-Petrov-aka-espetrov/Algorithms-and-Programming-in-C-pptx/blob/master/03.5%20Типы%20языка%20С.pptx)
 * Понятие типа и системы типов языка программирования
 * Семейства типов языка Си -- функциональные/полные/неполные, целые/с плавающей точкой/производные и т.д.
 * Представление типов языка Си в памяти -- целые знаковые/беззнаковые, с плавающей точкой, производные и т.д.
 
-## [Лекция 5 Преобразования типов в языке Си](https://github.com/Evgueni-Petrov-aka-espetrov/Algorithms-and-Programming-in-C-pptx/blob/master/03.75%20Преобразования%20типов.pptx)
+## [Лекция 6 Преобразования типов в языке Си](https://github.com/Evgueni-Petrov-aka-espetrov/Algorithms-and-Programming-in-C-pptx/blob/master/03.75%20Преобразования%20типов.pptx)
 * Общие свойства всех преобразований типов
 * Преобразования целых и типов с плавающей точкой -- общий тип, целочисленное повышение (integer promotion), протяжка знака (sign propagation/extension)
 * Преобразование l-value
@@ -37,10 +41,6 @@
 * Преобразования функциональных типов
 * Преобразования с типом void
 * Преобразования указателей
-
-## [Лекция 6 Функции в языке Си](https://github.com/Evgueni-Petrov-aka-espetrov/Algorithms-and-Programming-in-C-pptx/blob/master/05%20Функции.pptx)
-* Понятие подпрограммы -- граф вызовов, стековый кадр, стек вызовов
-* Функции в языке Си -- формальные и фактические параметры, возвращаемое значение, вариадические функции
 
 ## [Лекция 7 Размещение типов в памяти](https://github.com/Evgueni-Petrov-aka-espetrov/Algorithms-and-Programming-in-C-pptx/blob/master/06.5%20Размещение%20типов%20в%20памяти.pptx)
 * Размещение в стековом кадре -- выравнивание, связь выравниваний производного типа и его элементов, выравнивающие байты
